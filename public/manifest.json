@@ -1,0 +1,12 @@
+{
+    "manifest_version": 3,
+    "name": "Google Operatoren Suche",
+    "version": "1.0",
+    "description": "Erstellen Sie angepasste Google-Suchanfragen mit Operatoren.",
+    "action": {
+      "default_popup": "index.html",
+      "default_title": "Google Operatoren Suche"
+    },
+    "permissions": ["tabs"]
+  }
+  
