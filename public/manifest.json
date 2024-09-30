@@ -6,7 +6,6 @@
     "action": {
       "default_popup": "index.html",
       "default_title": "Google Operatoren Suche"
-    },
-    "permissions": ["tabs"]
+    }
   }
   
